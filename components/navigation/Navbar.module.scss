@@ -1,0 +1,15 @@
+.navbar {
+  display: inline-flex;
+  width: 100%;
+  align-items: center;
+  padding: 2rem;
+}
+
+.navheader {
+  border: 3px solid black;
+  border-radius: 25%;
+  padding: 15px;
+  min-width: 200px;
+  background-color: darkcyan;
+  color: white;
+}

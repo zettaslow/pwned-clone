@@ -1,0 +1,25 @@
+.breachInfo {
+  display: inline-flex;
+  width: 100%;
+  justify-content: center;
+  padding: 25px;
+}
+
+.breachTable {
+  display:flex;
+  width:100%;
+  justify-content: center;
+}
+
+.fieldLabel {
+  margin: 5px;
+  input {
+    margin: 5px;
+  }
+}
+
+.formError {
+  display: flex;
+  color: red;
+  justify-content: center;
+}
